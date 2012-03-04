@@ -14,11 +14,17 @@ Example output
 
 
 Results of orientation analysis of image fibers149-01.jpg:
+
 ....
+
 Class 44 has orientation : -0.10987, 0.99395
+
 Class 45 has orientation : -0.37344, 0.92765
+
 Class 46 has orientation : -0.14266, 0.98977
+
 Class 47 has orientation : 0.95784, -0.28731
+
 ....
 
 
